@@ -1,0 +1,6 @@
+git config --global user.name LLcarol
+git config --global user.email karolkobus9@gmail.com
+
+git add
+git commit
+git push
